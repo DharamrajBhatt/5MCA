@@ -1,0 +1,11 @@
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.exe.config
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.exe
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.pdb
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.AssemblyReference.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Form1.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Properties.Resources.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.GenerateResource.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.CoreCompileInputs.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.exe
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.pdb
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Form2.resources
