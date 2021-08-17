@@ -1,0 +1,15 @@
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.exe.config
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.exe
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\QuizLAB1.pdb
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.AssemblyReference.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Properties.Resources.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.GenerateResource.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.csproj.CoreCompileInputs.cache
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.exe
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.pdb
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\quiz.mdf
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\bin\Debug\quiz_log.ldf
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.registrationform.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.quizform.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Loginform.resources
+C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\obj\Debug\QuizLAB1.Resetpasswordform.resources
