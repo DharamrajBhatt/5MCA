@@ -108,5 +108,45 @@ namespace QuizLAB1
             Resetpasswordform f3 = new Resetpasswordform();
             f3.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SqlConnection cn = new SqlConnection();
+            SqlCommand cmd = new SqlCommand();
+
+            cn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\dharamraj bhatt\Source\Repos\QuizLAB1\QuizLAB1\quiz.mdf;Integrated Security=True");
+            SqlDataReader dr = null;
+            cn.Open();
+            /*SqlDataReader dr = cmd.ExecuteReader();*/
+
+            if (textBox1.Text != string.Empty)
+            {
+
+                cmd = new SqlCommand("Delete from registration where email='" + textBox1.Text + "'", cn);
+                dr = cmd.ExecuteReader();
+                if (dr.Read())
+                {
+                    dr.Close();
+                    MessageBox.Show("Successfully Deleted");
+
+                    this.Hide();
+                    quizform f3 = new quizform();
+                    f3.ShowDialog();
+                }
+
+                else
+                {
+                    dr.Close();
+                    MessageBox.Show("Successfully Deleted");
+                    //MessageBox.Show("No Account avilable with this username", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Enter email id", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+        }
     }
 }

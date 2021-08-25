@@ -40,7 +40,7 @@ namespace QuizLAB1
                 }
                 else
                 {
-                    SQLAdapter = new SqlDataAdapter("update registration set password='" + textBox3.Text + "'", SQLConn);
+                    SQLAdapter = new SqlDataAdapter("update registration set password='" + textBox3.Text + "'where email='" + textBox1.Text + "'", SQLConn);
                     SQLAdapter.Fill(DT);
                     MessageBox.Show("Successfully updated");
                     this.Hide();
